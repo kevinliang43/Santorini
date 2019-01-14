@@ -1,0 +1,4 @@
+{ "players"   : [["good", "Kevin", "PathString"], ["breaker", "Marina", "Nothing"], ["infinite", "Bob",  "Santorini/out/production/Santorini/InfinitePlayer.class"],
+  ["infinite", "Bob2", "Santorini/out/production/Santorini/InfinitePlacePlayer.class"]],
+
+    "observers" : []}
